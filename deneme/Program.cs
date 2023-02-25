@@ -1,6 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// iki sayının toplamı
 int a = 5;
 int b = 3;
 
 
-Console.WriteLine("Toplam: " + (a+b));
+Console.WriteLine("Toplam: " + (a+b)); // sonuç
